@@ -13,3 +13,4 @@ The repository includes the following AI lab experiments:
 6. Alpha Beta
 7. Prolog
 8. Semantic network
+9. Bayes Rules for Rain predication
