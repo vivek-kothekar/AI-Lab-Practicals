@@ -10,4 +10,6 @@ The repository includes the following AI lab experiments:
 3. Tic-Tac-Toe Game
 4. A* Algorithm
 5. Cryptarithmetic puzzle
-6. Alpha Beta 
+6. Alpha Beta
+7. Prolog
+8. Semantic network
